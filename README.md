@@ -87,9 +87,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://open.spotify.com/intl-ar/track/21tTRofoXdyMJ5K31yX830?si=0e64b5645da84aec?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
